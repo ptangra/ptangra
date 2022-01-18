@@ -71,7 +71,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#pgeorgiev-tech" >
-        <img src="https://plugins.jetbrains.com/files/14932/130048/icon/pluginIcon.png" width="48" height="48" alt="XAML" />
+        <img src="https://user-images.githubusercontent.com/7389110/64734982-9428ad00-d4df-11e9-8677-63c6c19f141b.png" width="48" height="48" alt="XAML" />
       </a>
       <br>XAML
     </td>
