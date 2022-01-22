@@ -171,9 +171,9 @@
     
 </table>
 
-[linkedin]: https://twitter.com/pgeorgiev4 "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/petar-georgiev-867b661ab/ "LinkedIn"
 [twitter]: https://twitter.com/pgeorgiev4 "Twitter"
-[codewars]: https://www.codewars.com/ "CodeWars"
+[codewars]: https://www.codewars.com/users/ptangra "CodeWars"
 <!---
 ptangra/ptangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
