@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello, my fellow colleague looking at my profile!</h1>
 <h2 align="left">:technologist: My name is Petar Georgiev</h2>
 <h2 align="left">Now let me tell you little bit about myself :studio_microphone:</h2>
-<h3 align="left">I am a .NET Software Developer at Milara International </h3>
+<h3 align="left">I am a .NET Software Developer</h3>
 
 - :computer: &nbsp;I'm currently working at **Milara International** :bulgaria: | :us:
 - :white_check_mark: &nbsp;Develop automation solutions for semiconductor factories :factory:
