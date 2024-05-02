@@ -3,7 +3,7 @@
 <h2 align="left">Now let me tell you little bit about myself :studio_microphone:</h2>
 <h3 align="left">I am a .NET Software Developer</h3>
 
-- :computer: &nbsp;I'm currently working at **Milara International** :bulgaria: | :us:
+- :computer: &nbsp;I'm currently working at **Milara Inc** :us:
 - :white_check_mark: &nbsp;Develop automation solutions for semiconductor factories :factory:
 - :mag: &nbsp;Currently exploring **[ASP.NET Core 6]**
 - :person_fencing: &nbsp;Fighting wars and sharpening skills at **[CODEWARS]** [1 day 1 war basis] 
