@@ -5,7 +5,7 @@
 
 - :computer: &nbsp;I'm currently working at **Milara Inc** :us:
 - :white_check_mark: &nbsp;Develop automation solutions for semiconductor factories :factory:
-- :mag: &nbsp;Currently exploring **[ASP.NET Core 6]**
+- :mag: &nbsp;Constantly exploring **[TECH]**
 - :person_fencing: &nbsp;Fighting wars and sharpening skills at **[CODEWARS]** [1 day 1 war basis] 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
