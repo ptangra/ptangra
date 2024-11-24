@@ -9,7 +9,7 @@
 - :person_fencing: &nbsp;Fighting wars and sharpening skills at **[CODEWARS]** [1 day 1 war basis] 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :bird: &nbsp;Let's talk more in **[X]**
 
 <h2 align="left" id="pgeorgiev-tech">:joystick: Technology, skills and more.. </h2>
 
@@ -172,7 +172,7 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/petar-georgiev-867b661ab/ "LinkedIn"
-[twitter]: https://twitter.com/pgeorgiev4 "Twitter"
+[x]: https://twitter.com/pgeorgiev4 "X"
 [codewars]: https://www.codewars.com/users/ptangra "CodeWars"
 <!---
 ptangra/ptangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
